@@ -1,0 +1,4 @@
+- pkg:pypi/boto3-pydantic-batch@0.4.1
+- pkg:pypi/boto3-pydantic-batch@1.0.0
+- pkg:pypi/boto3-pydantic-batch@1.0.1
+- pkg:pypi/boto3-pydantic-batch@1.0.2
