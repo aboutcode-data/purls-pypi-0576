@@ -1,0 +1,10 @@
+- pkg:pypi/bb8@0.1.0
+- pkg:pypi/bb8@0.1.1
+- pkg:pypi/bb8@0.1.2.dev0
+- pkg:pypi/bb8@0.2.0.dev0
+- pkg:pypi/bb8@0.2.1.dev0
+- pkg:pypi/bb8@0.2.2.dev0
+- pkg:pypi/bb8@0.2.3.dev0
+- pkg:pypi/bb8@0.2.4.dev0
+- pkg:pypi/bb8@0.2.5.dev0
+- pkg:pypi/bb8@0.2.6
