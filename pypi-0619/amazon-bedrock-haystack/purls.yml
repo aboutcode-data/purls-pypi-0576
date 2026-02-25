@@ -52,3 +52,13 @@
 - pkg:pypi/amazon-bedrock-haystack@5.0.0
 - pkg:pypi/amazon-bedrock-haystack@5.1.0
 - pkg:pypi/amazon-bedrock-haystack@5.2.0
+- pkg:pypi/amazon-bedrock-haystack@5.3.0
+- pkg:pypi/amazon-bedrock-haystack@5.3.1
+- pkg:pypi/amazon-bedrock-haystack@5.4.0
+- pkg:pypi/amazon-bedrock-haystack@6.0.0
+- pkg:pypi/amazon-bedrock-haystack@6.1.0
+- pkg:pypi/amazon-bedrock-haystack@6.1.1
+- pkg:pypi/amazon-bedrock-haystack@6.2.0
+- pkg:pypi/amazon-bedrock-haystack@6.2.1
+- pkg:pypi/amazon-bedrock-haystack@6.3.0
+- pkg:pypi/amazon-bedrock-haystack@6.4.0
