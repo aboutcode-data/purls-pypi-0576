@@ -1,3 +1,5 @@
+- pkg:pypi/astarte-message-hub-proto@0.10.0
+- pkg:pypi/astarte-message-hub-proto@0.10.1
 - pkg:pypi/astarte-message-hub-proto@0.5.1
 - pkg:pypi/astarte-message-hub-proto@0.6.0
 - pkg:pypi/astarte-message-hub-proto@0.6.1

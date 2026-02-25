@@ -67,6 +67,9 @@
 - pkg:pypi/asposepdfcloud@24.8.0
 - pkg:pypi/asposepdfcloud@24.9.0
 - pkg:pypi/asposepdfcloud@25.1.0
+- pkg:pypi/asposepdfcloud@25.10.0
+- pkg:pypi/asposepdfcloud@25.11.0
+- pkg:pypi/asposepdfcloud@25.12.0
 - pkg:pypi/asposepdfcloud@25.2.0
 - pkg:pypi/asposepdfcloud@25.3.0
 - pkg:pypi/asposepdfcloud@25.4.0
@@ -75,3 +78,4 @@
 - pkg:pypi/asposepdfcloud@25.7.0
 - pkg:pypi/asposepdfcloud@25.8.0
 - pkg:pypi/asposepdfcloud@25.9.0
+- pkg:pypi/asposepdfcloud@26.1.0
