@@ -143,6 +143,16 @@
 - pkg:pypi/anthropic@0.74.0
 - pkg:pypi/anthropic@0.74.1
 - pkg:pypi/anthropic@0.75.0
+- pkg:pypi/anthropic@0.76.0
+- pkg:pypi/anthropic@0.77.0
+- pkg:pypi/anthropic@0.77.1
+- pkg:pypi/anthropic@0.78.0
+- pkg:pypi/anthropic@0.79.0
 - pkg:pypi/anthropic@0.8.0
 - pkg:pypi/anthropic@0.8.1
+- pkg:pypi/anthropic@0.80.0
+- pkg:pypi/anthropic@0.81.0
+- pkg:pypi/anthropic@0.82.0
+- pkg:pypi/anthropic@0.83.0
+- pkg:pypi/anthropic@0.84.0
 - pkg:pypi/anthropic@0.9.0

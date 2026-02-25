@@ -51,6 +51,9 @@
 - pkg:pypi/answerrocket-client@0.2.1
 - pkg:pypi/answerrocket-client@0.2.10
 - pkg:pypi/answerrocket-client@0.2.100
+- pkg:pypi/answerrocket-client@0.2.101
+- pkg:pypi/answerrocket-client@0.2.102
+- pkg:pypi/answerrocket-client@0.2.103
 - pkg:pypi/answerrocket-client@0.2.11
 - pkg:pypi/answerrocket-client@0.2.12
 - pkg:pypi/answerrocket-client@0.2.13

@@ -107,6 +107,9 @@
 - pkg:pypi/ansible@13.0.0b1
 - pkg:pypi/ansible@13.0.0rc1
 - pkg:pypi/ansible@13.1.0
+- pkg:pypi/ansible@13.2.0
+- pkg:pypi/ansible@13.3.0
+- pkg:pypi/ansible@13.4.0
 - pkg:pypi/ansible@2.0.0.0
 - pkg:pypi/ansible@2.0.0.1
 - pkg:pypi/ansible@2.0.0.2
