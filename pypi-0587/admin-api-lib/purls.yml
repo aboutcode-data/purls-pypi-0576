@@ -1,3 +1,7 @@
 - pkg:pypi/admin-api-lib@3.2.0
 - pkg:pypi/admin-api-lib@3.3.0
 - pkg:pypi/admin-api-lib@3.4.0
+- pkg:pypi/admin-api-lib@4.0.0
+- pkg:pypi/admin-api-lib@4.1.0
+- pkg:pypi/admin-api-lib@4.1.1
+- pkg:pypi/admin-api-lib@4.2.0
