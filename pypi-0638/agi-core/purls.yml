@@ -1,1 +1,4 @@
-- pkg:pypi/agi-core@2025.11.24
+- pkg:pypi/agi-core@2025.12.19
+- pkg:pypi/agi-core@2026.2.18
+- pkg:pypi/agi-core@2026.2.20
+- pkg:pypi/agi-core@2026.2.6
