@@ -1,1 +1,4 @@
 - pkg:pypi/ab-client-token-validator@0.1.0
+- pkg:pypi/ab-client-token-validator@1.0.0
+- pkg:pypi/ab-client-token-validator@1.1.0
+- pkg:pypi/ab-client-token-validator@1.1.1

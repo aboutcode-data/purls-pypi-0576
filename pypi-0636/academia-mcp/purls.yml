@@ -44,6 +44,11 @@
 - pkg:pypi/academia-mcp@1.11.9
 - pkg:pypi/academia-mcp@1.12.0
 - pkg:pypi/academia-mcp@1.12.1
+- pkg:pypi/academia-mcp@1.13.0
+- pkg:pypi/academia-mcp@1.13.1
+- pkg:pypi/academia-mcp@1.13.2
+- pkg:pypi/academia-mcp@1.13.3
+- pkg:pypi/academia-mcp@1.13.4
 - pkg:pypi/academia-mcp@1.2.0
 - pkg:pypi/academia-mcp@1.2.1
 - pkg:pypi/academia-mcp@1.2.2
