@@ -1,0 +1,5 @@
+- pkg:pypi/cntk@2.5
+- pkg:pypi/cntk@2.5.1
+- pkg:pypi/cntk@2.6
+- pkg:pypi/cntk@2.7
+- pkg:pypi/cntk@2.7.post2
