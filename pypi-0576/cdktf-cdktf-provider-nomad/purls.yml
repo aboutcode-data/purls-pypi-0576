@@ -10,6 +10,7 @@
 - pkg:pypi/cdktf-cdktf-provider-nomad@10.0.0
 - pkg:pypi/cdktf-cdktf-provider-nomad@10.0.1
 - pkg:pypi/cdktf-cdktf-provider-nomad@10.0.2
+- pkg:pypi/cdktf-cdktf-provider-nomad@10.0.3
 - pkg:pypi/cdktf-cdktf-provider-nomad@2.0.0
 - pkg:pypi/cdktf-cdktf-provider-nomad@3.0.0
 - pkg:pypi/cdktf-cdktf-provider-nomad@4.0.0

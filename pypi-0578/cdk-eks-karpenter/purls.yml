@@ -48,6 +48,7 @@
 - pkg:pypi/cdk-eks-karpenter@1.0.16
 - pkg:pypi/cdk-eks-karpenter@1.0.17
 - pkg:pypi/cdk-eks-karpenter@1.0.18
+- pkg:pypi/cdk-eks-karpenter@1.0.19
 - pkg:pypi/cdk-eks-karpenter@1.0.2
 - pkg:pypi/cdk-eks-karpenter@1.0.3
 - pkg:pypi/cdk-eks-karpenter@1.0.4

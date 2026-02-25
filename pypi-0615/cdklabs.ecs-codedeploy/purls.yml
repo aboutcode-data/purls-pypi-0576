@@ -357,7 +357,15 @@
 - pkg:pypi/cdklabs.ecs-codedeploy@0.0.420
 - pkg:pypi/cdklabs.ecs-codedeploy@0.0.421
 - pkg:pypi/cdklabs.ecs-codedeploy@0.0.422
+- pkg:pypi/cdklabs.ecs-codedeploy@0.0.423
+- pkg:pypi/cdklabs.ecs-codedeploy@0.0.424
+- pkg:pypi/cdklabs.ecs-codedeploy@0.0.425
+- pkg:pypi/cdklabs.ecs-codedeploy@0.0.426
+- pkg:pypi/cdklabs.ecs-codedeploy@0.0.427
+- pkg:pypi/cdklabs.ecs-codedeploy@0.0.428
+- pkg:pypi/cdklabs.ecs-codedeploy@0.0.429
 - pkg:pypi/cdklabs.ecs-codedeploy@0.0.43
+- pkg:pypi/cdklabs.ecs-codedeploy@0.0.430
 - pkg:pypi/cdklabs.ecs-codedeploy@0.0.44
 - pkg:pypi/cdklabs.ecs-codedeploy@0.0.45
 - pkg:pypi/cdklabs.ecs-codedeploy@0.0.46

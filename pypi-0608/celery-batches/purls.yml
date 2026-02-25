@@ -1,5 +1,6 @@
 - pkg:pypi/celery-batches@0.1
 - pkg:pypi/celery-batches@0.10
+- pkg:pypi/celery-batches@0.11
 - pkg:pypi/celery-batches@0.2
 - pkg:pypi/celery-batches@0.3
 - pkg:pypi/celery-batches@0.4
