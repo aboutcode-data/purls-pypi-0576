@@ -39,3 +39,5 @@
 - pkg:pypi/alibabacloud-eventbridge20200401@8.0.0
 - pkg:pypi/alibabacloud-eventbridge20200401@8.0.1
 - pkg:pypi/alibabacloud-eventbridge20200401@8.0.2
+- pkg:pypi/alibabacloud-eventbridge20200401@8.0.3
+- pkg:pypi/alibabacloud-eventbridge20200401@8.0.4
