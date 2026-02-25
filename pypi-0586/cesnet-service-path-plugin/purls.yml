@@ -35,3 +35,9 @@
 - pkg:pypi/cesnet-service-path-plugin@5.4.0b2
 - pkg:pypi/cesnet-service-path-plugin@5.4.0b3
 - pkg:pypi/cesnet-service-path-plugin@5.4.0b4
+- pkg:pypi/cesnet-service-path-plugin@5.5.0b1
+- pkg:pypi/cesnet-service-path-plugin@5.5.0b2
+- pkg:pypi/cesnet-service-path-plugin@6.0.0
+- pkg:pypi/cesnet-service-path-plugin@6.0.0b1
+- pkg:pypi/cesnet-service-path-plugin@6.0.1
+- pkg:pypi/cesnet-service-path-plugin@6.0.1b1

@@ -19,6 +19,7 @@
 - pkg:pypi/cerebrate-file@1.0.30
 - pkg:pypi/cerebrate-file@1.0.31
 - pkg:pypi/cerebrate-file@1.0.32
+- pkg:pypi/cerebrate-file@1.0.34
 - pkg:pypi/cerebrate-file@1.0.4
 - pkg:pypi/cerebrate-file@1.0.5
 - pkg:pypi/cerebrate-file@1.0.6
