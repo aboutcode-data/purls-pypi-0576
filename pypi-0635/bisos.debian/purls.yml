@@ -12,3 +12,4 @@
 - pkg:pypi/bisos.debian@0.22
 - pkg:pypi/bisos.debian@0.23
 - pkg:pypi/bisos.debian@0.24
+- pkg:pypi/bisos.debian@0.25
