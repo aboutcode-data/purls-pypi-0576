@@ -41,3 +41,7 @@
 - pkg:pypi/avnet-scotty@2025.9rc2
 - pkg:pypi/avnet-scotty@2025.9rc3
 - pkg:pypi/avnet-scotty@2025.9rc4
+- pkg:pypi/avnet-scotty@2026.1
+- pkg:pypi/avnet-scotty@2026.1rc2
+- pkg:pypi/avnet-scotty@2026.1rc3
+- pkg:pypi/avnet-scotty@2026.1rc4
