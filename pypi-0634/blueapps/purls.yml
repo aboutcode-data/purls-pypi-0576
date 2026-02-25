@@ -22,6 +22,8 @@
 - pkg:pypi/blueapps@4.16rc1
 - pkg:pypi/blueapps@4.16rc2
 - pkg:pypi/blueapps@4.16rc3
+- pkg:pypi/blueapps@4.16rc4
+- pkg:pypi/blueapps@4.17.0
 - pkg:pypi/blueapps@4.2.0
 - pkg:pypi/blueapps@4.2.1
 - pkg:pypi/blueapps@4.2.2
