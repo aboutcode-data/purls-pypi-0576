@@ -82,6 +82,7 @@
 - pkg:pypi/azureml-accel-models@1.6.0
 - pkg:pypi/azureml-accel-models@1.60.0
 - pkg:pypi/azureml-accel-models@1.61.0
+- pkg:pypi/azureml-accel-models@1.62.0
 - pkg:pypi/azureml-accel-models@1.7.0
 - pkg:pypi/azureml-accel-models@1.8.0
 - pkg:pypi/azureml-accel-models@1.9.0
