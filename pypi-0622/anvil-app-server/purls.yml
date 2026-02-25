@@ -12,6 +12,7 @@
 - pkg:pypi/anvil-app-server@1.13.3
 - pkg:pypi/anvil-app-server@1.13.4
 - pkg:pypi/anvil-app-server@1.14.0
+- pkg:pypi/anvil-app-server@1.15.0
 - pkg:pypi/anvil-app-server@1.2
 - pkg:pypi/anvil-app-server@1.3
 - pkg:pypi/anvil-app-server@1.4

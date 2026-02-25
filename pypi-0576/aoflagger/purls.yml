@@ -1,3 +1,5 @@
 - pkg:pypi/aoflagger@0.0.2
 - pkg:pypi/aoflagger@3.2.1
 - pkg:pypi/aoflagger@3.4
+- pkg:pypi/aoflagger@3.5
+- pkg:pypi/aoflagger@3.5.post0
