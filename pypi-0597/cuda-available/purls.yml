@@ -1,0 +1,6 @@
+- pkg:pypi/cuda-available@0.1.117
+- pkg:pypi/cuda-available@0.1.118
+- pkg:pypi/cuda-available@0.2.117
+- pkg:pypi/cuda-available@0.2.118
+- pkg:pypi/cuda-available@0.3.0
+- pkg:pypi/cuda-available@0.3.1
