@@ -56,6 +56,9 @@
 - pkg:pypi/bittensor-cli@9.15.3
 - pkg:pypi/bittensor-cli@9.16.0
 - pkg:pypi/bittensor-cli@9.16.0rc1
+- pkg:pypi/bittensor-cli@9.17.0
+- pkg:pypi/bittensor-cli@9.18.0
+- pkg:pypi/bittensor-cli@9.18.1
 - pkg:pypi/bittensor-cli@9.2.0
 - pkg:pypi/bittensor-cli@9.3.0
 - pkg:pypi/bittensor-cli@9.4.0
