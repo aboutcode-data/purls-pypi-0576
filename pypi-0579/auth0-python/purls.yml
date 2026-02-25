@@ -63,3 +63,6 @@
 - pkg:pypi/auth0-python@4.8.0
 - pkg:pypi/auth0-python@4.8.1
 - pkg:pypi/auth0-python@4.9.0
+- pkg:pypi/auth0-python@5.0.0
+- pkg:pypi/auth0-python@5.0.0b0
+- pkg:pypi/auth0-python@5.1.0
