@@ -115,3 +115,6 @@
 - pkg:pypi/arrow-odbc@9.3.1
 - pkg:pypi/arrow-odbc@9.3.2
 - pkg:pypi/arrow-odbc@9.3.3
+- pkg:pypi/arrow-odbc@9.3.4
+- pkg:pypi/arrow-odbc@9.3.5
+- pkg:pypi/arrow-odbc@9.3.6
