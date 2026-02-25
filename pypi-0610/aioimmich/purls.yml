@@ -4,6 +4,7 @@
 - pkg:pypi/aioimmich@0.10.2
 - pkg:pypi/aioimmich@0.11.0
 - pkg:pypi/aioimmich@0.11.1
+- pkg:pypi/aioimmich@0.12.0
 - pkg:pypi/aioimmich@0.2.0
 - pkg:pypi/aioimmich@0.3.0
 - pkg:pypi/aioimmich@0.3.1
