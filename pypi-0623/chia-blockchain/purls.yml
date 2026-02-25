@@ -216,3 +216,9 @@
 - pkg:pypi/chia-blockchain@2.5.7rc2
 - pkg:pypi/chia-blockchain@2.5.7rc3
 - pkg:pypi/chia-blockchain@2.5.7rc4
+- pkg:pypi/chia-blockchain@2.5.8rc1
+- pkg:pypi/chia-blockchain@2.6.0
+- pkg:pypi/chia-blockchain@2.6.0rc2
+- pkg:pypi/chia-blockchain@2.6.0rc3
+- pkg:pypi/chia-blockchain@2.6.0rc4
+- pkg:pypi/chia-blockchain@2.6.0rc5

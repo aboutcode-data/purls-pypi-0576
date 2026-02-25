@@ -4,6 +4,7 @@
 - pkg:pypi/chess-scanparsers@0.0.7
 - pkg:pypi/chess-scanparsers@0.0.8
 - pkg:pypi/chess-scanparsers@0.0.9
+- pkg:pypi/chess-scanparsers@2023.1.23
 - pkg:pypi/chess-scanparsers@2024.5.31
 - pkg:pypi/chess-scanparsers@2024.5.7
 - pkg:pypi/chess-scanparsers@2024.6.21
@@ -12,3 +13,4 @@
 - pkg:pypi/chess-scanparsers@2024.6.8
 - pkg:pypi/chess-scanparsers@2025.5.2
 - pkg:pypi/chess-scanparsers@2025.5.2a0
+- pkg:pypi/chess-scanparsers@2026.1.23
