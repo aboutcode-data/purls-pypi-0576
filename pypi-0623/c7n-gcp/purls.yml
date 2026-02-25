@@ -53,6 +53,7 @@
 - pkg:pypi/c7n-gcp@0.4.45
 - pkg:pypi/c7n-gcp@0.4.46
 - pkg:pypi/c7n-gcp@0.4.47
+- pkg:pypi/c7n-gcp@0.4.48
 - pkg:pypi/c7n-gcp@0.4.5
 - pkg:pypi/c7n-gcp@0.4.6
 - pkg:pypi/c7n-gcp@0.4.7
