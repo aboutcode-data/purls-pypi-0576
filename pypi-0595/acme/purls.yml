@@ -144,3 +144,6 @@
 - pkg:pypi/acme@5.0.0
 - pkg:pypi/acme@5.1.0
 - pkg:pypi/acme@5.2.1
+- pkg:pypi/acme@5.2.2
+- pkg:pypi/acme@5.3.0
+- pkg:pypi/acme@5.3.1
