@@ -13,3 +13,4 @@
 - pkg:pypi/boilermaker-servicebus@0.7.2
 - pkg:pypi/boilermaker-servicebus@0.8.0
 - pkg:pypi/boilermaker-servicebus@1.0.0.dev1
+- pkg:pypi/boilermaker-servicebus@1.0.0.dev2

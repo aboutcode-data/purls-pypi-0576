@@ -21,3 +21,9 @@
 - pkg:pypi/boldsign@2.0.2
 - pkg:pypi/boldsign@3.0.0
 - pkg:pypi/boldsign@3.0.0b0
+- pkg:pypi/boldsign@3.0.1
+- pkg:pypi/boldsign@3.0.2
+- pkg:pypi/boldsign@3.0.3
+- pkg:pypi/boldsign@3.1.0
+- pkg:pypi/boldsign@3.1.0b0
+- pkg:pypi/boldsign@3.1.0b1
