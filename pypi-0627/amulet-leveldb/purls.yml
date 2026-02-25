@@ -8,6 +8,7 @@
 - pkg:pypi/amulet-leveldb@1.0.0b5
 - pkg:pypi/amulet-leveldb@1.0.1
 - pkg:pypi/amulet-leveldb@1.0.2
+- pkg:pypi/amulet-leveldb@1.0.3
 - pkg:pypi/amulet-leveldb@2.0.0.0.1297307203.19.43.34808.0a10
 - pkg:pypi/amulet-leveldb@2.0.0.0.1297307203.19.43.34808.0a11
 - pkg:pypi/amulet-leveldb@2.0.0.0.1297307203.19.43.34808.0a12

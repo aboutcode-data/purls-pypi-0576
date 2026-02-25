@@ -49,6 +49,7 @@
 - pkg:pypi/ampform@0.15.7
 - pkg:pypi/ampform@0.15.8
 - pkg:pypi/ampform@0.15.9
+- pkg:pypi/ampform@0.16.0
 - pkg:pypi/ampform@0.8.0
 - pkg:pypi/ampform@0.8.0a0
 - pkg:pypi/ampform@0.8.0a1
