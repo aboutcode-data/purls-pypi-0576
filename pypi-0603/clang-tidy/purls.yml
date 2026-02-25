@@ -1,0 +1,14 @@
+- pkg:pypi/clang-tidy@13.0.1.1
+- pkg:pypi/clang-tidy@14.0.6
+- pkg:pypi/clang-tidy@15.0.2
+- pkg:pypi/clang-tidy@15.0.2.1
+- pkg:pypi/clang-tidy@16.0.4
+- pkg:pypi/clang-tidy@17.0.1
+- pkg:pypi/clang-tidy@18.1.1
+- pkg:pypi/clang-tidy@18.1.8
+- pkg:pypi/clang-tidy@19.1.0
+- pkg:pypi/clang-tidy@19.1.0.1
+- pkg:pypi/clang-tidy@20.1.0
+- pkg:pypi/clang-tidy@21.1.0
+- pkg:pypi/clang-tidy@21.1.1
+- pkg:pypi/clang-tidy@21.1.6
