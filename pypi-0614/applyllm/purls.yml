@@ -7,3 +7,5 @@
 - pkg:pypi/applyllm@0.0.7
 - pkg:pypi/applyllm@0.0.8
 - pkg:pypi/applyllm@0.0.8.post1
+- pkg:pypi/applyllm@0.0.9rc2
+- pkg:pypi/applyllm@0.0.9rc3

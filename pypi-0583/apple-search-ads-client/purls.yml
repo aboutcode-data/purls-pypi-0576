@@ -18,3 +18,5 @@
 - pkg:pypi/apple-search-ads-client@2.4.4
 - pkg:pypi/apple-search-ads-client@2.5.0
 - pkg:pypi/apple-search-ads-client@2.6.0
+- pkg:pypi/apple-search-ads-client@2.7.0
+- pkg:pypi/apple-search-ads-client@2.7.1

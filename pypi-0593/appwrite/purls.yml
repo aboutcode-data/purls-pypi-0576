@@ -36,6 +36,10 @@
 - pkg:pypi/appwrite@13.6.0
 - pkg:pypi/appwrite@13.6.1
 - pkg:pypi/appwrite@14.0.0
+- pkg:pypi/appwrite@14.1.0
+- pkg:pypi/appwrite@15.0.0
+- pkg:pypi/appwrite@15.1.0
+- pkg:pypi/appwrite@15.2.0
 - pkg:pypi/appwrite@2.0.0
 - pkg:pypi/appwrite@2.0.1
 - pkg:pypi/appwrite@2.0.2
