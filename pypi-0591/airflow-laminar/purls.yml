@@ -32,6 +32,7 @@
 - pkg:pypi/airflow-laminar@1.16.2
 - pkg:pypi/airflow-laminar@1.16.3
 - pkg:pypi/airflow-laminar@1.16.4
+- pkg:pypi/airflow-laminar@1.16.5
 - pkg:pypi/airflow-laminar@1.2.0
 - pkg:pypi/airflow-laminar@1.2.1
 - pkg:pypi/airflow-laminar@1.2.2
