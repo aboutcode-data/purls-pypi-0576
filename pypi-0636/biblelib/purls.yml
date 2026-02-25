@@ -50,6 +50,7 @@
 - pkg:pypi/biblelib@0.3.26
 - pkg:pypi/biblelib@0.3.27
 - pkg:pypi/biblelib@0.3.28
+- pkg:pypi/biblelib@0.3.29
 - pkg:pypi/biblelib@0.3.3
 - pkg:pypi/biblelib@0.3.4
 - pkg:pypi/biblelib@0.3.5
@@ -57,3 +58,7 @@
 - pkg:pypi/biblelib@0.3.7
 - pkg:pypi/biblelib@0.3.8
 - pkg:pypi/biblelib@0.3.9
+- pkg:pypi/biblelib@0.4.0
+- pkg:pypi/biblelib@0.4.1
+- pkg:pypi/biblelib@0.5.0
+- pkg:pypi/biblelib@0.5.1
